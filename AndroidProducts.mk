@@ -1,0 +1,3 @@
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/VISION_4HD.mk \
+    $(LOCAL_DIR)/omni_VISION_4HD.mk
